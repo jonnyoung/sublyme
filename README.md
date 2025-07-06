@@ -1,2 +1,2 @@
-# sublyme-club
-repo for sublyme.club
+# sublyme
+repo for sublyme mixes
